@@ -7,7 +7,7 @@ from datetime import datetime
 # pd.set_option('display.max_colwidth', None)
 # pd.set_option('display.float_format', '{:.4f}'.format)
 
-file = 'vacancies_by_yea.csv'
+file = 'vacancies_by_year.csv'
 
 
 class SortByYears:
